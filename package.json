@@ -1,5 +1,5 @@
 {
-    "name": "vue3templates",
+    "name": "ghostrunner-fan",
     "private": true,
     "version": "0.0.0",
     "scripts": {
@@ -9,7 +9,6 @@
     },
     "dependencies": {
         "@quasar/extras": "^1.14.3",
-        "normalize.css": "^8.0.1",
         "quasar": "^2.7.5",
         "vue": "^3.2.25",
         "vue-router": "^4.0.13"
