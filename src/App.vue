@@ -1,11 +1,11 @@
 <script setup>
-import Navbar from "./components/Navigations/Navbar.vue";
+import NavbarElement from "./components/Navigations/NavbarElement.vue";
 import Footer from "./components/Navigations/Footer.vue";
 
 </script>
 
 <template lang="pug">
-Navbar
+NavbarElement
 router-view
 Footer
 </template>
